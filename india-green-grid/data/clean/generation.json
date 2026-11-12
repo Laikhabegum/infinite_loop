@@ -1,0 +1,998 @@
+{
+  "unit": "MU (million units = GWh)",
+  "latest": {
+    "date": "2026-11-10",
+    "thermal": {
+      "capacityMW": 252519.13,
+      "programMU": 3920.8,
+      "actualMU": 3303.14,
+      "ytdProgramMU": 880031.97,
+      "ytdActualMU": 883464.09
+    },
+    "nuclear": {
+      "capacityMW": 8780.0,
+      "programMU": 178.98,
+      "actualMU": 180.96,
+      "ytdProgramMU": 37746.76,
+      "ytdActualMU": 40047.58
+    },
+    "hydro": {
+      "capacityMW": 52314.66,
+      "programMU": 334.55,
+      "actualMU": 257.34,
+      "ytdProgramMU": 125707.5,
+      "ytdActualMU": 109574.28
+    },
+    "bhutanImportMU": 12.22,
+    "total": {
+      "programMU": 4434.33,
+      "actualMU": 3753.66,
+      "ytdProgramMU": 1047896.23,
+      "ytdActualMU": 1039558.82
+    },
+    "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/10-11-2026/dgr1-2026-11-10.pdf"
+  },
+  "days": [
+    {
+      "date": "2026-10-12",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4154.54,
+        "actualMU": 4087.31,
+        "ytdProgramMU": 761645.17,
+        "ytdActualMU": 771324.37
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 190.98,
+        "ytdProgramMU": 32531.88,
+        "ytdActualMU": 34583.03
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 444.92,
+        "ytdProgramMU": 112692.36,
+        "ytdActualMU": 100023.06
+      },
+      "bhutanImportMU": 28.58,
+      "total": {
+        "programMU": 4855.45,
+        "actualMU": 4751.79,
+        "ytdProgramMU": 911001.09,
+        "ytdActualMU": 912132.55
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/12-10-2026/dgr1-2026-10-12.pdf"
+    },
+    {
+      "date": "2026-10-13",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4157.59,
+        "actualMU": 4239.77,
+        "ytdProgramMU": 765802.76,
+        "ytdActualMU": 775564.13
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 190.94,
+        "ytdProgramMU": 32709.12,
+        "ytdActualMU": 34773.97
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 452.89,
+        "ytdProgramMU": 113201.39,
+        "ytdActualMU": 100475.95
+      },
+      "bhutanImportMU": 25.26,
+      "total": {
+        "programMU": 4858.5,
+        "actualMU": 4908.86,
+        "ytdProgramMU": 915859.59,
+        "ytdActualMU": 917041.4
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/13-10-2026/dgr1-2026-10-13.pdf"
+    },
+    {
+      "date": "2026-10-14",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4163.59,
+        "actualMU": 4343.13,
+        "ytdProgramMU": 769966.35,
+        "ytdActualMU": 779907.26
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 189.93,
+        "ytdProgramMU": 32886.36,
+        "ytdActualMU": 34963.9
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 479.16,
+        "ytdProgramMU": 113710.42,
+        "ytdActualMU": 100955.11
+      },
+      "bhutanImportMU": 25.26,
+      "total": {
+        "programMU": 4864.5,
+        "actualMU": 5037.48,
+        "ytdProgramMU": 920724.09,
+        "ytdActualMU": 922078.88
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/14-10-2026/dgr1-2026-10-14.pdf"
+    },
+    {
+      "date": "2026-10-15",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4130.68,
+        "actualMU": 4239.92,
+        "ytdProgramMU": 774097.03,
+        "ytdActualMU": 784147.18
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 190.45,
+        "ytdProgramMU": 33063.6,
+        "ytdActualMU": 35154.35
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 466.51,
+        "ytdProgramMU": 114219.45,
+        "ytdActualMU": 101421.62
+      },
+      "bhutanImportMU": 19.81,
+      "total": {
+        "programMU": 4831.59,
+        "actualMU": 4916.69,
+        "ytdProgramMU": 925555.68,
+        "ytdActualMU": 926995.57
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/15-10-2026/dgr1-2026-10-15.pdf"
+    },
+    {
+      "date": "2026-10-16",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4157.68,
+        "actualMU": 4227.25,
+        "ytdProgramMU": 778254.71,
+        "ytdActualMU": 788374.43
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 189.91,
+        "ytdProgramMU": 33240.84,
+        "ytdActualMU": 35344.26
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 436.84,
+        "ytdProgramMU": 114728.48,
+        "ytdActualMU": 101858.46
+      },
+      "bhutanImportMU": 17.66,
+      "total": {
+        "programMU": 4858.59,
+        "actualMU": 4871.66,
+        "ytdProgramMU": 930414.27,
+        "ytdActualMU": 931867.23
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/16-10-2026/dgr1-2026-10-16.pdf"
+    },
+    {
+      "date": "2026-10-17",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4157.68,
+        "actualMU": 4199.73,
+        "ytdProgramMU": 782412.39,
+        "ytdActualMU": 792574.16
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 187.47,
+        "ytdProgramMU": 33418.08,
+        "ytdActualMU": 35531.73
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 403.85,
+        "ytdProgramMU": 115237.51,
+        "ytdActualMU": 102262.31
+      },
+      "bhutanImportMU": 18.05,
+      "total": {
+        "programMU": 4858.59,
+        "actualMU": 4809.1,
+        "ytdProgramMU": 935272.86,
+        "ytdActualMU": 936676.33
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/17-10-2026/dgr1-2026-10-17.pdf"
+    },
+    {
+      "date": "2026-10-18",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4157.68,
+        "actualMU": 4021.23,
+        "ytdProgramMU": 786570.07,
+        "ytdActualMU": 796595.39
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 188.97,
+        "ytdProgramMU": 33595.32,
+        "ytdActualMU": 35720.7
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 356.58,
+        "ytdProgramMU": 115746.54,
+        "ytdActualMU": 102618.89
+      },
+      "bhutanImportMU": 16.79,
+      "total": {
+        "programMU": 4858.59,
+        "actualMU": 4583.57,
+        "ytdProgramMU": 940131.45,
+        "ytdActualMU": 941259.9
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/18-10-2026/dgr1-2026-10-18.pdf"
+    },
+    {
+      "date": "2026-10-19",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4157.68,
+        "actualMU": 3999.26,
+        "ytdProgramMU": 790727.75,
+        "ytdActualMU": 800585.9
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 190.66,
+        "ytdProgramMU": 33772.56,
+        "ytdActualMU": 35911.36
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 345.37,
+        "ytdProgramMU": 116255.57,
+        "ytdActualMU": 102964.26
+      },
+      "bhutanImportMU": 15.19,
+      "total": {
+        "programMU": 4858.59,
+        "actualMU": 4550.48,
+        "ytdProgramMU": 944990.04,
+        "ytdActualMU": 945801.63
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/19-10-2026/dgr1-2026-10-19.pdf"
+    },
+    {
+      "date": "2026-10-20",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4152.44,
+        "actualMU": 3795.5,
+        "ytdProgramMU": 794880.19,
+        "ytdActualMU": 804381.4
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 191.2,
+        "ytdProgramMU": 33949.8,
+        "ytdActualMU": 36102.56
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 324.8,
+        "ytdProgramMU": 116764.6,
+        "ytdActualMU": 103289.06
+      },
+      "bhutanImportMU": 15.38,
+      "total": {
+        "programMU": 4853.35,
+        "actualMU": 4326.88,
+        "ytdProgramMU": 949843.39,
+        "ytdActualMU": 950128.51
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/20-10-2026/dgr1-2026-10-20.pdf"
+    },
+    {
+      "date": "2026-10-21",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4165.29,
+        "actualMU": 3914.3,
+        "ytdProgramMU": 799045.48,
+        "ytdActualMU": 808295.7
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 191.24,
+        "ytdProgramMU": 34127.04,
+        "ytdActualMU": 36293.8
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 334.61,
+        "ytdProgramMU": 117273.63,
+        "ytdActualMU": 103623.67
+      },
+      "bhutanImportMU": 18.13,
+      "total": {
+        "programMU": 4866.2,
+        "actualMU": 4458.28,
+        "ytdProgramMU": 954709.59,
+        "ytdActualMU": 954586.79
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/21-10-2026/dgr1-2026-10-21.pdf"
+    },
+    {
+      "date": "2026-10-22",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4164.96,
+        "actualMU": 4036.62,
+        "ytdProgramMU": 803210.44,
+        "ytdActualMU": 812332.32
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 190.72,
+        "ytdProgramMU": 34304.28,
+        "ytdActualMU": 36484.52
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 337.23,
+        "ytdProgramMU": 117782.66,
+        "ytdActualMU": 103960.9
+      },
+      "bhutanImportMU": 12.72,
+      "total": {
+        "programMU": 4865.87,
+        "actualMU": 4577.29,
+        "ytdProgramMU": 959575.46,
+        "ytdActualMU": 959164.08
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/22-10-2026/dgr1-2026-10-22.pdf"
+    },
+    {
+      "date": "2026-10-23",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4158.46,
+        "actualMU": 4051.06,
+        "ytdProgramMU": 807368.9,
+        "ytdActualMU": 816383.38
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 190.34,
+        "ytdProgramMU": 34481.52,
+        "ytdActualMU": 36674.86
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 325.62,
+        "ytdProgramMU": 118291.69,
+        "ytdActualMU": 104286.52
+      },
+      "bhutanImportMU": 16.46,
+      "total": {
+        "programMU": 4859.37,
+        "actualMU": 4583.48,
+        "ytdProgramMU": 964434.83,
+        "ytdActualMU": 963747.56
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/23-10-2026/dgr1-2026-10-23.pdf"
+    },
+    {
+      "date": "2026-10-24",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4161.03,
+        "actualMU": 4045.6,
+        "ytdProgramMU": 811529.93,
+        "ytdActualMU": 820428.98
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 191.29,
+        "ytdProgramMU": 34658.76,
+        "ytdActualMU": 36866.15
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 317.62,
+        "ytdProgramMU": 118800.72,
+        "ytdActualMU": 104604.14
+      },
+      "bhutanImportMU": 15.41,
+      "total": {
+        "programMU": 4861.94,
+        "actualMU": 4569.92,
+        "ytdProgramMU": 969296.77,
+        "ytdActualMU": 968317.48
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/24-10-2026/dgr1-2026-10-24.pdf"
+    },
+    {
+      "date": "2026-10-25",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4156.57,
+        "actualMU": 3819.36,
+        "ytdProgramMU": 815686.5,
+        "ytdActualMU": 824248.34
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 191.96,
+        "ytdProgramMU": 34836.0,
+        "ytdActualMU": 37058.11
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 292.73,
+        "ytdProgramMU": 119309.75,
+        "ytdActualMU": 104896.87
+      },
+      "bhutanImportMU": 9.87,
+      "total": {
+        "programMU": 4857.48,
+        "actualMU": 4313.92,
+        "ytdProgramMU": 974154.25,
+        "ytdActualMU": 972631.4
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/25-10-2026/dgr1-2026-10-25.pdf"
+    },
+    {
+      "date": "2026-10-26",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4170.14,
+        "actualMU": 3821.51,
+        "ytdProgramMU": 819856.64,
+        "ytdActualMU": 828069.85
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 193.1,
+        "ytdProgramMU": 35013.24,
+        "ytdActualMU": 37251.21
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 296.6,
+        "ytdProgramMU": 119818.78,
+        "ytdActualMU": 105193.47
+      },
+      "bhutanImportMU": 8.75,
+      "total": {
+        "programMU": 4871.05,
+        "actualMU": 4319.96,
+        "ytdProgramMU": 979025.3,
+        "ytdActualMU": 976951.36
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/26-10-2026/dgr1-2026-10-26.pdf"
+    },
+    {
+      "date": "2026-10-27",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4170.57,
+        "actualMU": 3769.57,
+        "ytdProgramMU": 824027.21,
+        "ytdActualMU": 831845.14
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 192.48,
+        "ytdProgramMU": 35190.48,
+        "ytdActualMU": 37443.69
+      },
+      "hydro": {
+        "capacityMW": 52064.66,
+        "programMU": 509.03,
+        "actualMU": 297.87,
+        "ytdProgramMU": 120327.81,
+        "ytdActualMU": 105491.34
+      },
+      "bhutanImportMU": 8.86,
+      "total": {
+        "programMU": 4871.48,
+        "actualMU": 4268.78,
+        "ytdProgramMU": 983896.78,
+        "ytdActualMU": 981225.86
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/27-10-2026/dgr1-2026-10-27.pdf"
+    },
+    {
+      "date": "2026-10-28",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4170.57,
+        "actualMU": 3704.29,
+        "ytdProgramMU": 828197.78,
+        "ytdActualMU": 835549.43
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 191.58,
+        "ytdProgramMU": 35367.72,
+        "ytdActualMU": 37635.27
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 509.03,
+        "actualMU": 299.48,
+        "ytdProgramMU": 120836.84,
+        "ytdActualMU": 105803.68
+      },
+      "bhutanImportMU": 8.75,
+      "total": {
+        "programMU": 4871.48,
+        "actualMU": 4204.1,
+        "ytdProgramMU": 988768.26,
+        "ytdActualMU": 985442.82
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/28-10-2026/dgr1-2026-10-28.pdf"
+    },
+    {
+      "date": "2026-10-29",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4176.27,
+        "actualMU": 3721.34,
+        "ytdProgramMU": 832374.05,
+        "ytdActualMU": 839270.59
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 192.4,
+        "ytdProgramMU": 35544.96,
+        "ytdActualMU": 37827.67
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 509.03,
+        "actualMU": 299.1,
+        "ytdProgramMU": 121345.87,
+        "ytdActualMU": 106102.78
+      },
+      "bhutanImportMU": 7.75,
+      "total": {
+        "programMU": 4877.18,
+        "actualMU": 4220.59,
+        "ytdProgramMU": 993645.44,
+        "ytdActualMU": 989663.23
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/29-10-2026/dgr1-2026-10-29.pdf"
+    },
+    {
+      "date": "2026-10-30",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4181.72,
+        "actualMU": 3740.19,
+        "ytdProgramMU": 836555.77,
+        "ytdActualMU": 843010.78
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 177.24,
+        "actualMU": 192.19,
+        "ytdProgramMU": 35722.2,
+        "ytdActualMU": 38019.86
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 509.03,
+        "actualMU": 307.9,
+        "ytdProgramMU": 121854.9,
+        "ytdActualMU": 106410.68
+      },
+      "bhutanImportMU": 9.16,
+      "total": {
+        "programMU": 4882.63,
+        "actualMU": 4249.44,
+        "ytdProgramMU": 998528.07,
+        "ytdActualMU": 993912.67
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/30-10-2026/dgr1-2026-10-30.pdf"
+    },
+    {
+      "date": "2026-10-31",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 4214.33,
+        "actualMU": 3815.91,
+        "ytdProgramMU": 840757.0,
+        "ytdActualMU": 846826.69
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 193.24,
+        "actualMU": 191.88,
+        "ytdProgramMU": 35917.0,
+        "ytdActualMU": 38211.74
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 509.03,
+        "actualMU": 311.06,
+        "ytdProgramMU": 122362.0,
+        "ytdActualMU": 106721.74
+      },
+      "bhutanImportMU": 11.43,
+      "total": {
+        "programMU": 4931.24,
+        "actualMU": 4330.28,
+        "ytdProgramMU": 1003446.0,
+        "ytdActualMU": 998242.95
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/31-10-2026/dgr1-2026-10-31.pdf"
+    },
+    {
+      "date": "2026-11-01",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3936.82,
+        "actualMU": 3736.08,
+        "ytdProgramMU": 844693.82,
+        "ytdActualMU": 850655.88
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 183.42,
+        "actualMU": 188.01,
+        "ytdProgramMU": 36100.42,
+        "ytdActualMU": 38441.72
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 279.55,
+        "ytdProgramMU": 122696.55,
+        "ytdActualMU": 106993.72
+      },
+      "bhutanImportMU": 11.43,
+      "total": {
+        "programMU": 4454.79,
+        "actualMU": 4215.07,
+        "ytdProgramMU": 1007900.79,
+        "ytdActualMU": 1002485.49
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/01-11-2026/dgr1-2026-11-01.pdf"
+    },
+    {
+      "date": "2026-11-02",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3933.78,
+        "actualMU": 3867.15,
+        "ytdProgramMU": 848627.6,
+        "ytdActualMU": 854523.03
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 183.42,
+        "actualMU": 176.82,
+        "ytdProgramMU": 36283.84,
+        "ytdActualMU": 38618.54
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 310.28,
+        "ytdProgramMU": 123031.1,
+        "ytdActualMU": 107304.0
+      },
+      "bhutanImportMU": 12.09,
+      "total": {
+        "programMU": 4451.75,
+        "actualMU": 4366.34,
+        "ytdProgramMU": 1012352.54,
+        "ytdActualMU": 1006851.83
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/02-11-2026/dgr1-2026-11-02.pdf"
+    },
+    {
+      "date": "2026-11-03",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3924.28,
+        "actualMU": 3932.9,
+        "ytdProgramMU": 852551.88,
+        "ytdActualMU": 858463.54
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 183.42,
+        "actualMU": 175.84,
+        "ytdProgramMU": 36467.26,
+        "ytdActualMU": 38794.38
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 319.12,
+        "ytdProgramMU": 123365.65,
+        "ytdActualMU": 107623.12
+      },
+      "bhutanImportMU": 9.63,
+      "total": {
+        "programMU": 4442.25,
+        "actualMU": 4437.49,
+        "ytdProgramMU": 1016794.79,
+        "ytdActualMU": 1011296.93
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/03-11-2026/dgr1-2026-11-03.pdf"
+    },
+    {
+      "date": "2026-11-04",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3924.28,
+        "actualMU": 3905.77,
+        "ytdProgramMU": 856476.16,
+        "ytdActualMU": 862369.31
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 183.42,
+        "actualMU": 175.82,
+        "ytdProgramMU": 36650.68,
+        "ytdActualMU": 38970.2
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 316.27,
+        "ytdProgramMU": 123700.2,
+        "ytdActualMU": 107939.39
+      },
+      "bhutanImportMU": 9.41,
+      "total": {
+        "programMU": 4442.25,
+        "actualMU": 4407.27,
+        "ytdProgramMU": 1021237.04,
+        "ytdActualMU": 1015704.2
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/04-11-2026/dgr1-2026-11-04.pdf"
+    },
+    {
+      "date": "2026-11-05",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3924.6,
+        "actualMU": 3877.29,
+        "ytdProgramMU": 860400.76,
+        "ytdActualMU": 866246.6
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 183.42,
+        "actualMU": 175.91,
+        "ytdProgramMU": 36834.1,
+        "ytdActualMU": 39146.11
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 303.13,
+        "ytdProgramMU": 124034.75,
+        "ytdActualMU": 108242.52
+      },
+      "bhutanImportMU": 11.11,
+      "total": {
+        "programMU": 4442.57,
+        "actualMU": 4367.44,
+        "ytdProgramMU": 1025679.61,
+        "ytdActualMU": 1020071.64
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/05-11-2026/dgr1-2026-11-05.pdf"
+    },
+    {
+      "date": "2026-11-06",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3920.05,
+        "actualMU": 3859.62,
+        "ytdProgramMU": 864320.81,
+        "ytdActualMU": 870106.22
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 183.42,
+        "actualMU": 175.65,
+        "ytdProgramMU": 37017.52,
+        "ytdActualMU": 39321.76
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 293.39,
+        "ytdProgramMU": 124369.3,
+        "ytdActualMU": 108535.91
+      },
+      "bhutanImportMU": 7.57,
+      "total": {
+        "programMU": 4438.02,
+        "actualMU": 4336.23,
+        "ytdProgramMU": 1030117.63,
+        "ytdActualMU": 1024407.87
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/06-11-2026/dgr1-2026-11-06.pdf"
+    },
+    {
+      "date": "2026-11-07",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3931.76,
+        "actualMU": 3682.54,
+        "ytdProgramMU": 868252.57,
+        "ytdActualMU": 873788.76
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 183.42,
+        "actualMU": 175.21,
+        "ytdProgramMU": 37200.94,
+        "ytdActualMU": 39496.97
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 271.91,
+        "ytdProgramMU": 124703.85,
+        "ytdActualMU": 108807.82
+      },
+      "bhutanImportMU": 3.87,
+      "total": {
+        "programMU": 4449.73,
+        "actualMU": 4133.53,
+        "ytdProgramMU": 1034567.36,
+        "ytdActualMU": 1028541.4
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/07-11-2026/dgr1-2026-11-07.pdf"
+    },
+    {
+      "date": "2026-11-08",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3929.15,
+        "actualMU": 3235.71,
+        "ytdProgramMU": 872181.72,
+        "ytdActualMU": 877024.47
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 183.42,
+        "actualMU": 182.14,
+        "ytdProgramMU": 37384.36,
+        "ytdActualMU": 39679.11
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 257.05,
+        "ytdProgramMU": 125038.4,
+        "ytdActualMU": 109064.87
+      },
+      "bhutanImportMU": 5.17,
+      "total": {
+        "programMU": 4447.12,
+        "actualMU": 3680.07,
+        "ytdProgramMU": 1039014.48,
+        "ytdActualMU": 1032221.47
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/08-11-2026/dgr1-2026-11-08.pdf"
+    },
+    {
+      "date": "2026-11-09",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3929.45,
+        "actualMU": 3135.35,
+        "ytdProgramMU": 876111.17,
+        "ytdActualMU": 880160.95
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 183.42,
+        "actualMU": 187.51,
+        "ytdProgramMU": 37567.78,
+        "ytdActualMU": 39866.62
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 252.07,
+        "ytdProgramMU": 125372.95,
+        "ytdActualMU": 109316.94
+      },
+      "bhutanImportMU": 7.63,
+      "total": {
+        "programMU": 4447.42,
+        "actualMU": 3582.56,
+        "ytdProgramMU": 1043461.9,
+        "ytdActualMU": 1035805.16
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/09-11-2026/dgr1-2026-11-09.pdf"
+    },
+    {
+      "date": "2026-11-10",
+      "thermal": {
+        "capacityMW": 252519.13,
+        "programMU": 3920.8,
+        "actualMU": 3303.14,
+        "ytdProgramMU": 880031.97,
+        "ytdActualMU": 883464.09
+      },
+      "nuclear": {
+        "capacityMW": 8780.0,
+        "programMU": 178.98,
+        "actualMU": 180.96,
+        "ytdProgramMU": 37746.76,
+        "ytdActualMU": 40047.58
+      },
+      "hydro": {
+        "capacityMW": 52314.66,
+        "programMU": 334.55,
+        "actualMU": 257.34,
+        "ytdProgramMU": 125707.5,
+        "ytdActualMU": 109574.28
+      },
+      "bhutanImportMU": 12.22,
+      "total": {
+        "programMU": 4434.33,
+        "actualMU": 3753.66,
+        "ytdProgramMU": 1047896.23,
+        "ytdActualMU": 1039558.82
+      },
+      "sourceUrl": "https://npp.gov.in/public-reports/cea/daily/dgr/10-11-2026/dgr1-2026-11-10.pdf"
+    }
+  ],
+  "note": "CEA daily report covers stations above 25 MW and excludes RES generation."
+}

@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-11-12T07:43:26+00:00",
+  "sources": [
+    {
+      "dataset": "All-India installed capacity by source and region",
+      "publisher": "Central Electricity Authority (CEA), via National Power Portal",
+      "url": "https://npp.gov.in/public-reports/cea/monthly/installcap/2026/SEP/capacity1-2026-09.pdf",
+      "reportDate": "2026-09-30",
+      "frequency": "Monthly",
+      "format": "PDF",
+      "fetchedAt": "2026-11-12T07:41:59+00:00"
+    },
+    {
+      "dataset": "State-wise installed capacity - Northern region",
+      "publisher": "Central Electricity Authority (CEA), via National Power Portal",
+      "url": "https://npp.gov.in/public-reports/cea/monthly/installcap/2026/SEP/capacity2-Northern-2026-09.pdf",
+      "reportDate": "2026-09-30",
+      "frequency": "Monthly",
+      "format": "PDF",
+      "fetchedAt": "2026-11-12T07:41:59+00:00"
+    },
+    {
+      "dataset": "State-wise installed capacity - Western region",
+      "publisher": "Central Electricity Authority (CEA), via National Power Portal",
+      "url": "https://npp.gov.in/public-reports/cea/monthly/installcap/2026/SEP/capacity2-Western-2026-09.pdf",
+      "reportDate": "2026-09-30",
+      "frequency": "Monthly",
+      "format": "PDF",
+      "fetchedAt": "2026-11-12T07:42:00+00:00"
+    },
+    {
+      "dataset": "State-wise installed capacity - Southern region",
+      "publisher": "Central Electricity Authority (CEA), via National Power Portal",
+      "url": "https://npp.gov.in/public-reports/cea/monthly/installcap/2026/SEP/capacity2-Southern-2026-09.pdf",
+      "reportDate": "2026-09-30",
+      "frequency": "Monthly",
+      "format": "PDF",
+      "fetchedAt": "2026-11-12T07:42:00+00:00"
+    },
+    {
+      "dataset": "State-wise installed capacity - Eastern region",
+      "publisher": "Central Electricity Authority (CEA), via National Power Portal",
+      "url": "https://npp.gov.in/public-reports/cea/monthly/installcap/2026/SEP/capacity2-Eastern-2026-09.pdf",
+      "reportDate": "2026-09-30",
+      "frequency": "Monthly",
+      "format": "PDF",
+      "fetchedAt": "2026-11-12T07:42:00+00:00"
+    },
+    {
+      "dataset": "State-wise installed capacity - North Eastern region",
+      "publisher": "Central Electricity Authority (CEA), via National Power Portal",
+      "url": "https://npp.gov.in/public-reports/cea/monthly/installcap/2026/SEP/capacity2-North-Eastern-2026-09.pdf",
+      "reportDate": "2026-09-30",
+      "frequency": "Monthly",
+      "format": "PDF",
+      "fetchedAt": "2026-11-12T07:42:03+00:00"
+    },
+    {
+      "dataset": "All-India daily generation - thermal, nuclear, large hydro",
+      "publisher": "Central Electricity Authority (CEA), via National Power Portal",
+      "url": "https://npp.gov.in/public-reports/cea/daily/dgr/10-11-2026/dgr1-2026-11-10.pdf",
+      "reportDate": "2026-11-10",
+      "frequency": "Daily",
+      "format": "PDF",
+      "fetchedAt": "2026-11-12T07:43:26+00:00",
+      "note": "Covers stations above 25 MW; excludes renewable (RES) generation."
+    }
+  ]
+}

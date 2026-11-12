@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-11-12T07:43:26+00:00",
+  "checks": [
+    {
+      "check": "Regions sum to All-India total (MW)",
+      "expected": 558896.39,
+      "actual": 558896.39,
+      "difference": 0.0,
+      "passed": true
+    },
+    {
+      "check": "Coal+Lignite+Gas+Diesel = Thermal (MW)",
+      "expected": 250869.87,
+      "actual": 250869.86,
+      "difference": -0.01,
+      "passed": true
+    },
+    {
+      "check": "Thermal+Hydro+RES+Nuclear = Grand total (MW)",
+      "expected": 558896.39,
+      "actual": 558896.4,
+      "difference": 0.01,
+      "passed": true
+    },
+    {
+      "check": "RES break-up sums to RES total (MW)",
+      "expected": 247181.87,
+      "actual": 247181.87,
+      "difference": 0.0,
+      "passed": true
+    },
+    {
+      "check": "Northern: states sum to region total (MW)",
+      "expected": 151715.54,
+      "actual": 151715.53,
+      "difference": -0.01,
+      "passed": true
+    },
+    {
+      "check": "Western: states sum to region total (MW)",
+      "expected": 201397.39,
+      "actual": 201397.38,
+      "difference": -0.01,
+      "passed": true
+    },
+    {
+      "check": "Southern: states sum to region total (MW)",
+      "expected": 146792.9,
+      "actual": 146792.9,
+      "difference": 0.0,
+      "passed": true
+    },
+    {
+      "check": "Eastern: states sum to region total (MW)",
+      "expected": 52194.53,
+      "actual": 52194.53,
+      "difference": 0.0,
+      "passed": true
+    },
+    {
+      "check": "North Eastern: states sum to region total (MW)",
+      "expected": 6796.03,
+      "actual": 6796.02,
+      "difference": -0.01,
+      "passed": true
+    },
+    {
+      "check": "Daily generation 2026-11-10: sources sum to total (MU)",
+      "expected": 3753.66,
+      "actual": 3753.66,
+      "difference": 0.0,
+      "passed": true
+    }
+  ],
+  "allPassed": true
+}

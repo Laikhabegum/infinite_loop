@@ -1,0 +1,25 @@
+{
+  "sample": true,
+  "notice": "Sample listings for the prototype. No government portal publishes an open feed of green jobs, so these are illustrative roles - not real vacancies. Use the official portals below for live openings.",
+  "portals": [
+    { "name": "National Career Service", "by": "Ministry of Labour & Employment", "url": "https://www.ncs.gov.in/" },
+    { "name": "Skill Council for Green Jobs", "by": "Under the Ministry of Skill Development", "url": "https://sscgj.in/" },
+    { "name": "PM Surya Ghar vendor registration", "by": "Ministry of New and Renewable Energy", "url": "https://pmsuryaghar.gov.in/" }
+  ],
+  "listings": [
+    { "id": 1, "title": "Rooftop Solar Installer", "sector": "Solar", "location": "Gujarat", "level": "Entry", "type": "Full-time", "skills": ["Module mounting", "DC wiring", "Safety at height"] },
+    { "id": 2, "title": "Solar PV Design Engineer", "sector": "Solar", "location": "Karnataka", "level": "Mid", "type": "Full-time", "skills": ["PVsyst", "AutoCAD", "Yield analysis"] },
+    { "id": 3, "title": "Solar Plant O&M Technician", "sector": "Solar", "location": "Rajasthan", "level": "Entry", "type": "Full-time", "skills": ["Inverter maintenance", "Module cleaning", "SCADA basics"] },
+    { "id": 4, "title": "Wind Turbine Maintenance Technician", "sector": "Wind", "location": "Tamil Nadu", "level": "Mid", "type": "Full-time", "skills": ["Gearbox servicing", "Hydraulics", "Climbing certification"] },
+    { "id": 5, "title": "Wind Resource Analyst", "sector": "Wind", "location": "Maharashtra", "level": "Mid", "type": "Full-time", "skills": ["WAsP", "Python", "Met-mast data"] },
+    { "id": 6, "title": "Battery Pack Design Engineer", "sector": "Storage & EV", "location": "Telangana", "level": "Senior", "type": "Full-time", "skills": ["Li-ion cell selection", "BMS", "Thermal design"] },
+    { "id": 7, "title": "EV Battery Recycling Operator", "sector": "Circular economy", "location": "Uttar Pradesh", "level": "Entry", "type": "Full-time", "skills": ["Safe dismantling", "Material sorting", "Hazard handling"] },
+    { "id": 8, "title": "Biogas Plant Supervisor", "sector": "Bioenergy", "location": "Punjab", "level": "Mid", "type": "Full-time", "skills": ["Digester operation", "Feedstock logistics", "Gas quality testing"] },
+    { "id": 9, "title": "Organic Farming Field Officer", "sector": "Sustainable agriculture", "location": "Madhya Pradesh", "level": "Entry", "type": "Contract", "skills": ["Soil health", "Certification norms", "Farmer training"] },
+    { "id": 10, "title": "Energy Auditor", "sector": "Energy efficiency", "location": "Delhi", "level": "Mid", "type": "Full-time", "skills": ["BEE certification", "Load analysis", "Reporting"] },
+    { "id": 11, "title": "RPO Compliance Analyst", "sector": "Policy & compliance", "location": "Maharashtra", "level": "Mid", "type": "Full-time", "skills": ["Regulatory filings", "REC market", "Excel modelling"] },
+    { "id": 12, "title": "E-waste Collection Coordinator", "sector": "Circular economy", "location": "Karnataka", "level": "Entry", "type": "Full-time", "skills": ["Reverse logistics", "EPR rules", "Vendor management"] },
+    { "id": 13, "title": "Green Hydrogen Process Engineer", "sector": "Hydrogen", "location": "Gujarat", "level": "Senior", "type": "Full-time", "skills": ["Electrolysers", "Process safety", "P&ID"] },
+    { "id": 14, "title": "Sustainability Reporting Associate", "sector": "Policy & compliance", "location": "Tamil Nadu", "level": "Entry", "type": "Full-time", "skills": ["BRSR", "GHG accounting", "Data collection"] }
+  ]
+}
