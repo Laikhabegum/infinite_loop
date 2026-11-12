@@ -25,6 +25,8 @@ Click the button below to deploy your own live version directly to Vercel:
 4. In the configuration screen, click **Edit** next to **Root Directory** and select `india-green-grid`.
 5. Click **Deploy**. Vercel will build the application and provide a live public URL (e.g. `https://infinite-loop-india-green-grid.vercel.app`) that anyone can visit.
 
+`india-green-grid/vercel.json` runs the server functions in Vercel's Mumbai region (`bom1`), so the live reading from the Ministry of Power's MERIT India portal is requested from inside India.
+
 ---
 
 ## 📦 What's Inside (`india-green-grid`)
@@ -34,8 +36,8 @@ Click the button below to deploy your own live version directly to Vercel:
 | **Live Energy Mix Dashboard** | `/` | MERIT India (real-time MW by source), CEA installed capacity & daily generation |
 | **RPO Compliance Tracker** | `/rpo` | Ministry of Power RPO trajectory (FY 2024–25 to 2029–30) |
 | **Rooftop Solar Calculator** | `/solar` | NASA POWER solar irradiance data, PM Surya Ghar subsidy rules |
-| **Green Jobs Board** | `/jobs` | Curated opportunities in solar, wind, storage, and clean tech |
-| **Data Provenance & Validation** | `/data` | CEA PDF validation report, raw data hashes, public API endpoints |
+| **Green Jobs Board** | `/jobs` | Sample listings (labelled as such) with links to official job portals |
+| **Data Provenance & Validation** | `/data` | Source log for every dataset, validation report, public API endpoints |
 
 ---
 
