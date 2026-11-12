@@ -11,6 +11,18 @@ npm run dev
 
 Open http://localhost:3000.
 
+## Publish a live website
+
+This app can be deployed on [Vercel](https://vercel.com), which supports Next.js:
+
+1. Sign in to Vercel with GitHub and choose **Add New → Project**.
+2. Import `Laikhabegum/infinite_loop`. If prompted, allow Vercel to access the repository.
+3. In the project settings, set **Root Directory** to `india-green-grid` (the Next.js app is in this subfolder).
+4. Keep the detected Next.js framework and default build settings, then choose **Deploy**.
+5. Once the deployment finishes, Vercel will provide a public URL to share.
+
+No environment variables are required for the current app. After connecting the repository, pushes to `main` will trigger new deployments automatically.
+
 To refresh the data from the government reports (needs Python 3 and `pip install pdfplumber`):
 
 ```bash
